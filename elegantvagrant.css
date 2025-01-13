@@ -899,3 +899,9 @@ b, em, span.cm-strong {
   text-decoration: none;
   border-bottom: ;
 }
+
+#md17670dbf93616d7 .node circle, #md17670dbf93616d7 .node ellipse, #md17670dbf93616d7 .node path, #md17670dbf93616d7 .node polygon, #md17670dbf93616d7 .node rect {
+    fill: var(--background-secondary-alt);
+    stroke: var(--epurple);
+    stroke-width: 1px;
+}
